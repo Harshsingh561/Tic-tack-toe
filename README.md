@@ -1,5 +1,5 @@
 # Tic-tack-toe
-This is a full tick tack toe game with 2 features  1. Play with computer  2. Play with friends on a local wifi
+This is a full tick tack toe game with 2 features  1. Play with computer  2. Play with friends on a local network
                           
                           How to use It
                           
